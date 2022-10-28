@@ -1,0 +1,66 @@
+@document.meta
+title: types
+description: Dart type system notes
+authors: me
+categories: Mobile Development, Development
+created: 2022-09-27
+updated: 2022-09-28
+version: 0.0.14
+@end
+
+= TOC FlutterDart
+
+
+* Types
+** Example Code
+  @code dart
+  void main() {
+    var name = myName();
+    print('My name is $name');
+  }
+
+  String myName() {
+    return 'Christian';
+  }
+  @end
+
+** Why use typing?
+   - Improved performance
+   - Easier to work on large projects
+   - Less of a need to write unit tests 
+   - Automatically find simple errors
+
+** Variables
+  - Every value has a type
+  - every var has a type it can reference
+  - once a var is typed it cannot be changed
+  - Dart can guess typing for us with "var" keyword
+
+** String interpolation
+  - Dollar sign denotes the beginning
+  - Just a variable byitself only use dollar sign
+  - When accessing anything else within the variable
+  -- must use curly brackets
+
+
+
+* Object Oriented Programming
+** Breakdown
+   - Basically uses classes to act as blueprints
+   - Constructs reproducible "objects" based on an initial set of rules and functions
+** Creating Classes
+   - Create classes outside the main function
+   - Looks very similar to a function
+   -- without the brackets
+** Creating Class Instances
+   - Create a variable equal to Class()
+   - then assign the properties like so:
+
+   @code dart
+   var person = new Person('Christian');
+   person.firstName = 'Christian';
+   person.printName();
+   @end
+
+   > NOTE: First line has a parameter defined in the constructor function
+

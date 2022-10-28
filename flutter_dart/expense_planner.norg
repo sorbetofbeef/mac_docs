@@ -7,8 +7,11 @@ created: 2022-07-29
 version: 0.0.11
 @end
 
+
 * Expense Planner 
+
 ** Top Level
+
 *** AppBar
     - Navigation
     - Login/Logout
@@ -25,7 +28,9 @@ version: 0.0.11
 *** Floating action button
     - Add Item Menu
 
+
 ** Add Item Menu
+
 *** Shelf that slides from bottom
     - Input for title
     - Price

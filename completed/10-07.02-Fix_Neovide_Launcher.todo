@@ -1,4 +1,0 @@
->   MACOS: Fix Neovide Launcher
-|    Due: 07.02.22
-|    NOTES
--      Use automator to pass arguments to Neovide.app

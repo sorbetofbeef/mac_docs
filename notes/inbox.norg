@@ -1,3 +1,11 @@
+@document.meta
+title: flutter_course
+description: Learning the cross platform framework, Flutter, for Dart.
+authors: me
+categories: Dev, MobileDev
+created: 2022-08-12
+version: 0.0.12
+@end
 
 * Flutter Udemy Course
   #time.due 2022-09-14
@@ -5,19 +13,86 @@
   #contexts flutter dart development dev mobile
   > file:///Users/me/Projects/flutter_quiz_app/lib/main.dart
 
-*** Flutter Modules
-  - [-] Basics
-  -- [x] Quiz 1
-  -- [x] Quiz 2
-  -- [x] Quiz 3
-  -- [x] Quiz 4
-  -- [x] Quiz 5
-  -- [-] Assignment 1
-  - [ ] Devices and Debugging
-  - [ ] Personel Expenses App
-  -- [ ] Quiz 6
-  -- [ ] Quiz 7
-  -- [ ] Quiz 8
-  -- [ ] Quiz 9
-  -- [ ] Finished Product
-  - [ ] Responsive UI's and Apps
+** Flutter Modules
+*** Basics
+  - [x] Quiz 1
+  - [x] Quiz 2
+  - [x] Quiz 3
+  - [x] Quiz 4
+  - [x] Quiz 5
+  - [x] Assignment 1
+  - [x] Complete
+*** Devices and Debugging
+  - [x] Complete
+*** Personal Expenses App
+  - [x] Quiz 6
+  - [x] Quiz 7
+  - [x] Quiz 8
+  - [x] Quiz 9
+  - [x] Finished Product
+  - [x] Complete
+*** Responsive UI's and Apps
+  - [x] Quiz 10
+  - [x] Quiz 11
+  - [x] Complete
+*** Widget/Flutter Deep Dive
+  - [x] Quiz 12
+  - [x] Assignment 2
+  - [x] Quiz 13
+  - [x] Complete
+*** [Meals App] Navigation/Multi Views(Screens)
+  - [x] Quiz 14
+  - [x] Quiz 15
+  - [x] Quiz 16
+  - [x] Quiz 17
+  - [x] Complete
+*** State
+  - [x] Quiz 18
+  - [x] Quiz 19
+  - [x] Complete
+*** User I/O
+  - [x] Half-way Mark
+  - [x] Complete
+*** HTTP Requests
+  - [x] Quiz 19
+  - [x] Challenge!
+  - [x] Complete
+*** Auth
+  - [x] Theory
+  - [x] Practical
+  - [x] Wrap up
+*** Animations
+  - [x] Theory
+  - [x] Practical
+  - [x] Wrap up
+*** Device Features
+  - [ ] Theory
+  - [ ] Practical
+  - [ ] Wrap up
+*** Firebase, Image Upload, Push Notifs
+  - [ ] Theory
+  - [ ] Practical
+  - [ ] Wrap up
+*** Native Injection
+  - [ ] Theory
+  - [ ] Practical
+  - [ ] Wrap up
+*** Publishing to App Store
+  - [ ] Theory
+  - [ ] Practical
+  - [ ] Wrap up
+*** RoundUp
+  - [ ] Theory
+  - [ ] Practical
+  - [ ] Wrap up
+*** Flutter 2
+  - [ ] Theory
+  - [ ] Practical
+  - [ ] Wrap up
+*** RoundUp
+  - [ ] Theory
+  - [ ] Practical
+  - [ ] Wrap up
+
+
+
