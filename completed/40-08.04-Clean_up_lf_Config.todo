@@ -1,0 +1,4 @@
+>   SYSTEM: Clean up lf Config
+|    Due: 08.04.2022
+|    NOTES
+-      Refactor config. Group together functions with their relevent mappings. Create cmd functions for arbitrary commands. ?? Possibly create shell functions and then source/call them from lf ??

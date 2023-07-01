@@ -1,0 +1,44 @@
+@document.meta
+title: index
+description: 
+authors: me
+categories: gtd
+created: 2022-07-11
+version: 0.0.11
+@end
+
+
+| Focus
+* Next.js Portfolio Page
+  #contexts front_end react next_js webdev
+  #time.start 2022-10-10
+  #time.due 2022-11-10
+  #waiting.for
+  - [-] Follow Udemy Course on Next.js
+  - [ ] Follow Udemy Course on TailwindCSS
+  - [ ] Follow Udemy Course on Design
+** Next.js Udemy Course
+*** Basics
+    - [x] Complete basics portion of the first udemy course
+    > It was pretty simple and a lot of review. Very much a course
+    > about BulmaCss for me
+*** Main Project
+   - [-] Main project
+    > Main project seems a little shoddy from the preview but ill add
+    > stuff to it to make it worthwhile
+    > actually it might be better this way...
+** TailwindCSS Udemy Course
+*** Project 1
+   - [ ] Project 1
+*** Project 2
+   - [ ] Project 2
+*** Project 3
+   - [ ] Project 3
+*** Project 4
+   - [ ] Project 4
+*** Project 5
+   - [ ] Project 5
+** Graphic Design Udemy Course
+   - [ ] Setup
+
+| _

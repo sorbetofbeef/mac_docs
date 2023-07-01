@@ -1,0 +1,11 @@
+* Kernel Notes
+
+** Graphics
+  - HuC firmware failed to load
+  -- firmware: i915/tgl_huc.bin
+
+** Sound
+   - Soundwire (sof-audio-pci-intel-tgl) failed to firmware
+   -- github.com/thesofproject/sof-bin
+   -- input into kernels firmware loader
+

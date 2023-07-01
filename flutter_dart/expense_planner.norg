@@ -1,0 +1,39 @@
+@document.meta
+title: expense_planner
+description: Mobile app for tracking expenses
+authors: Christian Dickerson
+categories: flutter dart
+created: 2022-07-29
+version: 0.0.11
+@end
+
+
+* Expense Planner 
+
+** Top Level
+
+*** AppBar
+    - Navigation
+    - Login/Logout
+    - Sign up
+
+*** Chart of expenses per weekday
+   -- Mon-Sunday
+
+*** Transaction history
+   -- Cost
+   -- Name of item
+   -- Date purchased
+
+*** Floating action button
+    - Add Item Menu
+
+
+** Add Item Menu
+
+*** Shelf that slides from bottom
+    - Input for title
+    - Price
+    - Date 
+    - Confirm button
+
